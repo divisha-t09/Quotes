@@ -10,6 +10,6 @@ This is a simple app which displays random quotes.
 -Javascript
 
 ### Links
-Solution URL - 
+Solution URL - https://github.com/divisha-t09/Quotes/
 
-Live Site URL - 
+Live Site URL - https://div-quotes.netlify.app/
